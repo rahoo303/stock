@@ -1,0 +1,8 @@
+npm install vue-loader@next vue@next vue-router@next --force
+
+npm install @vitejs/plugin-vue --force --save-dev
+
+https://www.youtube.com/watch?v=NCNhm1pfkQI
+
+
+https://jsfiddle.net/7nxhygLp/2/
